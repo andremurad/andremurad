@@ -1,21 +1,15 @@
-## Hi there 👋
+## Opa! Eu sou o André✨
 
-<!--
-**andremurad/andremurad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremurad&show_icons=true&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremurad&layout=compact&langs_count=16&theme=merko"/>
+<a href="https://beacons.ai" target="_blank">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=andremurad&show_icons=true&theme=merko"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremurad&layout=compact&langs_count=16&theme=merko"/>
+</div>
+
+
+<div> 
+  <a href="https://www.youtube.com/@AndreMurad02" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dre_zin02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:andremurad09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
